@@ -37,7 +37,7 @@ BU_: XXX
 
 
 BO_ 464 speed: 8 XXX
- SG_ NEW_SIGNAL_1 : 7|15@0+ (0.002759506,0) [0|70] "3/s" XXX
+ SG_ speed : 7|15@0+ (0.0099342215,0) [0|70] "km/h" XXX
 
 BO_ 406 NEW_MSG_2: 8 XXX
 

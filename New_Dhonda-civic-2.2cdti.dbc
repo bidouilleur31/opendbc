@@ -36,8 +36,10 @@ BS_:
 BU_: XXX
 
 
-BO_ 464 NEW_MSG_1: 8 XXX
- SG_ speed : 23|16@0+ (,0) [0|65535] "" XXX
+BO_ 464 speed: 8 XXX
+ SG_ speed2 : 39|16@0+ (1,0) [0|65535] "" XXX
+ SG_ speed1 : 23|16@0+ (1,0) [0|65535] "" XXX
+ SG_ NEW_SIGNAL_1 : 48|16@1- (1,0) [0|65535] "" XXX
 
 BO_ 406 NEW_MSG_2: 8 XXX
 
